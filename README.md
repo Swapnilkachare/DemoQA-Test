@@ -1,2 +1,2 @@
 # DemoQA-Test
-Authoer- Swapnil kachare
+Author- Swapnil kachare
